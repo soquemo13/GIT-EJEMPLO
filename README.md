@@ -4,3 +4,4 @@
 3. El programa se ejecuta con python run-main.py
 4. Prueba de otra instrucción para una nueva versión
 5. hola
+6. Información agregada desde Git-Hub
