@@ -6,3 +6,5 @@
 5. hola
 6. Información agregada desde Git-Hub
 7. Trabajando git + github
+8. Trabajando con github automatizado
+
