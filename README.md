@@ -5,3 +5,4 @@
 4. Prueba de otra instrucción para una nueva versión
 5. hola
 6. Información agregada desde Git-Hub
+7. Trabajando git + github
